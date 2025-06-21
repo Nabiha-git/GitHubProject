@@ -1,1 +1,2 @@
 Git is a version control system used to track changes in code and collaborate with others.
+Collaboration is the way different people can work on the same project together. It is like creating a group in GitHub, just like Groups in other social media
